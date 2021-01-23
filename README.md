@@ -46,8 +46,6 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 <!-- Social links -->
 <p align='Left'>
 <a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
-  
-<a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://theme.zdassets.com/theme_assets/841909/92950fb3c1be711b8debb7b89412cb17a5d95f0c.png"></a>
 </p>
 
 ---
