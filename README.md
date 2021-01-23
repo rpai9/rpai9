@@ -47,3 +47,7 @@ Other interests: :blue_car: Working on Engines , :computer: Tinkering with ML al
 <a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/linkedin.png?raw=true"></a>
 </p>
 
+<!-- Fotter gif -->
+<p align="center">
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="Puppies dancing" class="center">
+</p>
