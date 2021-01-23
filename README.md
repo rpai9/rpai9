@@ -12,7 +12,7 @@
 ### Hey there! Rohith here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on Developer & MongoMiner
+- 🔭 I’m currently working on Top secret stuff :wink: :wink:
 - 🌱 I’m currently learning ReactJS framework & Django framework.
 - 👯 I’m looking to collaborate in Google Hashcode
 - 💬 Ask me about anything
@@ -23,9 +23,9 @@
 
 
 <!-- About -->
-I'm a Solution Engineer at Aptiv! I’m always looking for a new problem to solve, so if you’ve got a doozy you need hand with, feel free to contact me directly.
+I'm a Solution Engineer at Aptiv! I’m always looking for a new problem to solve, so if you’ve got a doozy you need hand with something, feel free to contact me directly.
 
-Other interests: :blue_car: Working on Engines , :computer: Tinkering with ML algorithms
+Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML algorithms
 
 
 ### 🔧 Technologies & Tools
@@ -41,11 +41,14 @@ Other interests: :blue_car: Working on Engines , :computer: Tinkering with ML al
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=Mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 
+### 🔧 Technologies & Tools
 ---
 <!-- Social links -->
 <p align='Left'>
-<a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
 </p>
+
+---
 
 <!-- Fotter gif -->
 <p align="center">
