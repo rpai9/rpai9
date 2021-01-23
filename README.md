@@ -47,6 +47,13 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)
 
 
+
+
+### :chart_with_upwards_trend: Git Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=true&theme=dark)](https://github.com/rpai9/github-readme-stats)
+
+
 ### :calling: Social Media
 ---
 <!-- Social links -->
@@ -57,11 +64,6 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 </p>
 
 ---
-
-### :chart_with_upwards_trend: Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=true&theme=dark)](https://github.com/rpai9/github-readme-stats)
-
 
 ---
 <!-- Fotter gif -->
