@@ -60,8 +60,10 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 
 ### :chart_with_upwards_trend: Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=true)](https://github.com/rpai9/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=truetheme=dark)](https://github.com/rpai9/github-readme-stats)
 
+
+---
 <!-- Fotter gif -->
 <p align="center">
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="Puppies dancing" class="center">
