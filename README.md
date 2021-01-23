@@ -1,9 +1,10 @@
 
 
 <!-- Header gif -->
-<p align="center">
+
 ![Alt Text](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
-</p>
+![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+
 ---
 <!-- Social links -->
 <p align='Left'>
