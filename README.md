@@ -41,7 +41,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=Mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 
-### 🔧 Social Media
+### :calling: Social Media
 ---
 <!-- Social links -->
 <p align='Left'>
