@@ -1,7 +1,10 @@
 
 
 <!-- Header gif -->
-![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+<p align="center">
+  ![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+</p>
+
 
 ---
 
