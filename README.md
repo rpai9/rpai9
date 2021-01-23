@@ -33,6 +33,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
   ---
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Fortran](https://img.shields.io/badge/-fortran-05122A?style=flat&logo=Fortran)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -43,6 +44,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)
 
 
 ### :calling: Social Media
