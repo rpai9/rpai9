@@ -41,11 +41,13 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=Mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 
-### 🔧 Technologies & Tools
+### 🔧 Social Media
 ---
 <!-- Social links -->
 <p align='Left'>
 <a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
+  
+<a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://theme.zdassets.com/theme_assets/841909/92950fb3c1be711b8debb7b89412cb17a5d95f0c.png"></a>
 </p>
 
 ---
