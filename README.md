@@ -45,7 +45,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
 ### :calling: Social Media
@@ -55,7 +55,6 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 <a href="https://www.linkedin.com/in/rohithrpai/"><img src="https://img.shields.io/badge/-Rohith%20Ramdas%20Pai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rohithrpai@gmail.com"><img src="https://img.shields.io/badge/-rohithrpai@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/rohithrpai"><img src="https://img.shields.io/badge/-@rohithrpai__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rohithr.pai/"><img src="https://img.shields.io/badge/-@rohithr.pai?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ---
