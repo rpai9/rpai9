@@ -18,19 +18,14 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I can speak 5 hooman languages!
 
-
----
-
-
 <!-- About -->
 I'm a Solution Engineer at Aptiv! I’m always looking for a new problem to solve, so if you’ve got a doozy you need hand with something, feel free to contact me directly.
 
 Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML algorithms, :oncoming_automobile: Vehicle Calibration
 
+---
 
 ### 🔧 Technologies & Tools
-
-  ---
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Fortran](https://img.shields.io/badge/-fortran-05122A?style=flat&logo=Fortran)&nbsp;
@@ -53,10 +48,9 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=true&theme=dark)](https://github.com/rpai9/github-readme-stats)
 
-
-### :calling: Social Media
 ---
-<!-- Social links -->
+### :calling: Social Media
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rohithrpai/"><img src="https://img.shields.io/badge/-Rohith%20Ramdas%20Pai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rohithr9@uw.edu"><img src="https://img.shields.io/badge/-rohithr9@uw.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -64,7 +58,6 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 </p>
 
 ---
-
 
 <!-- Fotter gif -->
 <p align="center">
