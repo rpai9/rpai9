@@ -9,12 +9,12 @@
 
 <!-- Greeting -->
 
-### Hey there! Rohith here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+### Hey there! Rohith here. <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="30px">
 
 
 - 🔭 I’m currently working on Top secret stuff :wink: :wink:
-- 🌱 I’m currently learning ReactJS framework & Django framework.
-- 👯 I’m looking to collaborate in Google Hashcode
+- 🌱 I’m currently learning the ReactJS framework & Django framework.
+- 👯 I’m looking to collaborate in Google Hashcode Competition 
 - 💬 Ask me about anything
 - ⚡ Fun fact: I can speak 5 hooman languages!
 
