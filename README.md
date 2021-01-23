@@ -52,10 +52,10 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ---
 <!-- Social links -->
 <p align="center">
-<a href="https://www.linkedin.com/in/rohithrpai/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rohithrpai@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/rohithrpai"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rohithr.pai/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohithrpai/"><img src="https://img.shields.io/badge/-Rohith%20Ramdas%20Pai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rohithrpai@gmail.com"><img src="https://img.shields.io/badge/-rohithrpai@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rohithrpai"><img src="https://img.shields.io/badge/-@rohithrpai__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/rohithr.pai/"><img src="https://img.shields.io/badge/-@rohithr.pai?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ---
