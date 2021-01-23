@@ -47,7 +47,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)
 
 
-
+---
 
 ### :chart_with_upwards_trend: Git Stats
 
@@ -65,7 +65,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 
 ---
 
----
+
 <!-- Fotter gif -->
 <p align="center">
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="Puppies dancing" class="center">
