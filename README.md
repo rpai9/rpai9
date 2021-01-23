@@ -1,13 +1,15 @@
 
 
 <!-- Header gif -->
-<!-- <p align='center'><img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif"></p> -->
+<!-- <p align='center'><img src="http://gph.is/2cDWQO1"></p> -->
 ---
 <!-- Social links -->
 <p align='Left'>
 <a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/linkedin.png?raw=true"></a>
 </p>
+
 ---
+
 <!-- Greeting -->
 
 ### Hey there! Rohith here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
