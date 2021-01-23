@@ -1,19 +1,5 @@
-### Hi there 👋
 
-<!--
-**rpai9/rpai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Social links -->
 <p align='center'>
@@ -23,6 +9,16 @@ Here are some ideas to get you started:
 <!-- Greeting -->
 
 ### Hey there! Rohith here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+
+
+<!--
+
+- 🔭 I’m currently working on Developer, MongoMiner
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Would love to participate in Google Hashcode
+- 💬 Ask me about anything
+- ⚡ Fun fact: I can speak 5 hooman languages!
+-->
 
 
 ---
