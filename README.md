@@ -21,7 +21,7 @@
 <!-- About -->
 I'm a Solution Engineer at Aptiv! I’m always on the look out for new problems to solve, so if you’ve got a doozy and need a hand with something, feel free to contact me directly.
 
-Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML algorithms, :oncoming_automobile: Vehicle Calibration
+Other interests: 🔧  Working on Engines , :computer: Tinkering with ML algorithms, :oncoming_automobile: Vehicle Calibration
 
 ---
 
