@@ -1,9 +1,9 @@
 
 
 <!-- Header gif -->
-<p align="center">
+
   ![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
-</p>
+<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Puppies dancing">
 
 
 ---
