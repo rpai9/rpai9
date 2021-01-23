@@ -3,7 +3,7 @@
 <!-- Header gif -->
 <p align="center">
 ![Alt Text](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
-<p/>
+</p>
 ---
 <!-- Social links -->
 <p align='Left'>
