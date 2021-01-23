@@ -51,7 +51,7 @@ Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML a
 ### :calling: Social Media
 ---
 <!-- Social links -->
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/rohithrpai/"><img src="https://img.shields.io/badge/-Rohith%20Ramdas%20Pai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rohithr9@uw.edu"><img src="https://img.shields.io/badge/-rohithr9@uw.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/rohithrpai"><img src="https://img.shields.io/badge/-@rohithrpai__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
