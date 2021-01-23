@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I can speak 5 hooman languages!
 
 <!-- About -->
-I'm a Solution Engineer at Aptiv! I’m always looking for a new problem to solve, so if you’ve got a doozy you need hand with something, feel free to contact me directly.
+I'm a Solution Engineer at Aptiv! I’m always on the look out for new problems to solve, so if you’ve got a doozy and need a hand with something, feel free to contact me directly.
 
 Other interests: :blue_car:  Working on Engines , :computer: Tinkering with ML algorithms, :oncoming_automobile: Vehicle Calibration
 
