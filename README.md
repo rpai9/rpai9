@@ -2,7 +2,7 @@
 
 
 <!-- Social links -->
-<p align='center'>
+<p align='Left'>
 <a href="https://www.linkedin.com/in/rohithrpai/"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/linkedin.png?raw=true"></a>
 </p>
 
@@ -42,6 +42,6 @@ Other interests: Internal Combustion Engines, Tinkering with ML algorithms
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-Gulp.js-informational?style=flat&logo=gulp&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=Mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MySQL&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 
 
