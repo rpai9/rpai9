@@ -9,7 +9,7 @@
 
 <!-- Greeting -->
 
-### Hey there! Rohith here. <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="30px">
+### Hey there! Rohith here. 👋
 
 
 - 🔭 I’m currently working on Top secret stuff :wink: :wink:
