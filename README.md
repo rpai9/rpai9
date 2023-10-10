@@ -9,7 +9,7 @@
 
 <!-- Greeting -->
 
-### Hey there! Rohith here. 👋
+# Hey there! Rohith here. 👋
 
 
 - 🔭 I’m currently working on Top secret stuff :wink: :wink:
@@ -46,7 +46,8 @@ Other interests: 🔧  Working on Engines , :computer: Tinkering with ML algorit
 
 ### :chart_with_upwards_trend: Git Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=true&theme=dark)](https://github.com/rpai9/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpai9&show_icons=true&theme=dark)](https://github.com/rpai9/github-readme-stats) 
+[![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rpai9&theme=dark&layout=compact&langs_count=10)](https://github.com/rpai9)
 
 ---
 ### :calling: Social Media
